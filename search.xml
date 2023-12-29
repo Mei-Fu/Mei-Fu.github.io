@@ -84,33 +84,11 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>link</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[<p>have a nice day!</p>    <div id="aplayer-aWyKWGOT" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="2959379263" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>    <div id="aplayer-djNywZka" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8492133976" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>]]></content>
       
     </entry>
     
@@ -128,9 +106,42 @@
     
     
     <entry>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<p>have a nice day!</p>    <div id="aplayer-uFdNwzqr" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="2959379263" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>    <div id="aplayer-LNdatVdG" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8492133976" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>    <div id="aplayer-boRLvdOk" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="gcid_3znqw77uz2z08e" data-server="kugou" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>    <div id="aplayer-AUuRBOBD" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="gcid_3znqw77uz2z08e#46fj1j44" data-server="kugou" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>    <div id="aplayer-vFjVteoO" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="3znqw77uz2z08e" data-server="kugou" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>    <div id="aplayer-QmCaQFCL" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="837452458" data-server="kugou" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/daily/2023/2023-12-30-%E6%98%9F%E6%9C%9F%E5%85%AD.html"/>
+      <url>/daily/2023/2023-12-30-%E6%98%9F%E6%9C%9F%E5%85%AD.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
