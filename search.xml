@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Hello World</title>
+      <link href="/2023/12/30/hello-world/"/>
+      <url>/2023/12/30/hello-world/</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="158af38378821cd37062e6e058ebbdef0404676125d51e07c8b68ac50ba409ce">73d38b3f522cc90d5ddd451cc52bad510c9701996fa10a076a016ee89d4c995ccf645bb31be1c22cdeb48f0812c35d24fa2895769281efb365e77c73a2e021ea6553069eca325112dcb0a5e155ad23be7413d1b1279f5ef3ab820535b8928d5ab9913c961ef7ee83c68b8548393efd05841592a3e1290aeaad598e59e58c31af2dace89951c83b0347168d4dc718e7bcf5f7dde9a561e4f79707d128b7e964bfb2adb25e65dd06e766ce162fee14f811b4b1937030f27fb52e70567ade0b572c83f6441fa5a3fbb81b92bc793ba8d3f1631ca325fa4765107df93a5499f84b16930e78b70e19b33a82217f7b4870402bfa412f8de91b1953ce1d37ce829748f1155c17a367564b56e62720c3f0657d006ed9efc91dbcb750f27b0035a71d75c0a49ae5229ab9013502d621fa250c6a0316705d1e70af57ff48acc778fdaf54293a49bdd46cc3a30d7b20b0379674e79ce5a048252cbbc9b8c9434bc71785b8376bdb76a9c78384ec238ea7db0acea318c96fe4bf9687645c15af93aa5047519055f82227a4a5cb39571d3f9dfbe8b5b215b4f0105bbbdfb87faad443c4c11be3bce8ecd66cadc41c3bc19fc9b91075e49b883b8b4cfc02cab360f5f4e196cbbc7b08e550e49650d7a8303c22cca6496fd56cb6fc429288ecdbaeceb33e193d3168bdf69561fa74f3f7c33c4e6d8437c8f874d425d8bb0e1409211241f5811a8bbc89b0923f8f51320aca8d2585747024d2d4a85205ca485de4803e2c8ba070a5fa75943dfbb118c510aa0f45b2ba177073c4724092679dd24a9b69ebea6e64f4e28a2b7e77fe0cd4f4e63c684916557f4856360353fc775bf98e1be84cbdf212a96bc07e99094517cde78c8af7636453a72b6e3c207e78ebe78639348d55abaf165c4757f68e72da47109006065188821cd3420d05e6dc09c7d9c355fe27214448b4fc9bff4bc71f1848eea0a500025f34b0c1cc93b0c90b189fb447dac191fcc696e7c32cb6b9d482eeedb9fd54327f7ed1c6ee9a5f28684c9b27b5054b48023cc6f4ea1999c3f132757f5b7ad18785ae873fd275d97f05006595c7734894eb06e482872493c05f32d8ec39b1ace2ed5628c9fbe2f6ac3536a6466187de35b52cc82a484f9246369ca5cbe8b968fdaec75fb0d0845ead9b977a7b9df4f0e6c154053ae29d6211f80597937d75f49172b0704ea41755d9e4b6ed97c784896f64813910ebdfaa12a164289140af2dce4d826526a517fe577f29b2ceae1fa7743437900866f51b8daf652dfad343fc117d72652d0379a826653fda85057a0aa05acccbe7060918aa48f845fb4cf2ec39629a7a719dc775f83898518862a51c961196539413392ce0d16be240ea2fa6bffcb602c60d82e8be2d325aa59860d888ce815e4bf12ea7138c7c0614b2712dece3eb0f28b07a935dd4a0729cbf6252520ca5b9d50fd5ccd110f84bf6412f26a3c99aa4f84221cee5a255c8314eecf045b34925fbaff75351082a9818a9ba595e0e69dac628c4d9ed3f2fa17d4f6d579fac71bc01976f7583ec5c8ee9193c08e754be0409810339f20e8035f93415cc6c7abda9a0ba5eb07e31e2f89a82e2900252f97122507e50cf78307b47ad93b5a8729ca7146e6d499d25484c3a6ffb1bde03b7b5d295775ec4b6f3e34c6442206e6431c6122eac6a5978c4d57e63e81ab4d05f802ccca86214be196e13b4979f99bc35a5b0aa83277d984c5fb2bc0c194bd1b03a863a3383ab78d063e590df1e5bde58e37dfa30048e7645fb83589653cdbbf0cf5e8168e3e44a94d08292b0168c11a64c244e3066e97cb5c621604789ec61f4561afc4ee19554ec98783a393db671e0d30e46099aa55072fe0635dc94919a5217f83bdbaa01f49f0751fe189b8e0ecbb3470bb468f67acccda6d4edc40eb792e5f7aea1415a78c8955c4eb80b3d76efb470b8929b2c2043b9c7b5f88c4cf8826c21f841ab334b8bdd3f84871d8a1d9c53b04f7ef0316e20691bc1c06565c0a1eb6ae0263d6f8d55d04778f8b70ca37fbe888cc34c89e74066449593d62a498946501a11ae223b008678a3a8aa8a4adfa258028f583ace2ee975faeb0777b4c5d8494cf101e2ee6aebce51aeab1e27c8536325f0e58b10dc91817570bc8f8d4359a6d517fcba5c0cd4b9c2f2e4ad3951c844277ffd7ef04d5609a1e1423e6e4c0537d66a184d39d9e5e1f680066639e882d869c528feb7d5fc3cba564720dba8f1c9993f47abd62b0be7fa573ef1aa02150a11f664512bd5c441e1a454206c58852db98bfcd8d9dcc211b8883ad4f66e6f3246d902e3ce163bdcd1676edb98caaef99c19791cec4d007d5bfeed4b6804eefe4c906be01aaa9152a5db7d6553ea6c88853d696dfd483dc65d56692fa4a0b85f6dedb084aa7f4e940064db740af3d8a672b5eb2665d14982332077f02f359eeb493238c170a7b4f2684488e14206b6cacb21899058700e2a4ecec8d22f3c306374e4617dcece96e16f6c8f4c6ca7777ee15134cfa95fd2bd80102f593af5883c53c8c4bc8d59de745ae5c114a7638efe0de34fc52336365da9f77bb6fedac932848717f64ea784faf788f96d451a13402e2e4aafed106d6fd28d392ec8be019a2c81d08fcbd7caccf29a3affc3974fecdc551b6a7edc7d9cf11ddb2d95db774baf524eb4c3aa8e62e570a5c3aefb24b5ab4b5f5100bf8078bd2ad546f58477e9a11120450ad5159b77653a646b879cd2310b586ffde3a0780c4106f754dfe0d33bb497ec8e224a62ee2f10e7dc4bb35e2dd2ad046d2fefba6398552f84a1f6d333c6ed58c47a18704180562e04aaae82779d6548890fe12550e0ff53d75f0c2897cc1fdc3b5e05021b729c0eb22a49de3765b5bcb0c9cedd643c95d03293d9c94da3576e98ed48aa2b65f5ddf567a84cf4476f06e161e1eb80e9ab8741eb7afef0b347534b9bebe73f10bf0407d4caf14a84c864a1170b21393ce4bc206d38cba0b2bfe57f30c0ee6c03a57eba714a91e012b11558c0c267242fa20494a0efa51b9333a0f518cd17ffc45dbbb287e95d1f835b70814b16601e3620d3744f83a95ad256f8a0b4c07d62de8dd1e2a06a58ea609705e2200cc4cf51172c2cd4e265b044b7bf6a8b5c6bbe943fb6024f958b71c2db27f366bef97acbf308b3f9449e19c1bc69986bb13408c35423622ceaa0d09789e4f0d313ac2daf3f460fd45274b1120983017a27670007da5dc5801fb6a6dd79e80ff86d3a08d0d0e4c514fd77fcf790ead91d566f360018d398aab472f80245a15f95cc82075822d6035008a7f2669113033d7c1ad9bdea3bed6d2150563dbcf9a5f91d7c035dd63c79db9cd397a6d4e172ce75c815924958bf9dc0f5f157c495d8073bc2e52a672edeb39bf2eb82176d44aa6f96dd4fc3282f159149fd04762e1fd874e7d6500910967165fc398427b0e8c46d16cc1cadf6704403184b6d9dcb9a22fe4667f1f3f93ff8f6f87ff4b1139b8cfa2a97f582383d9c4e0e0c62f8af3e4a1ef71aeb46229b426b87be36aa255249e3a99a5b87044be2d0a98eefca3670e05f7c5586552eee4f69a65b9a71602ad90ece559a7b2ce0f65543d4b7072773243b81efd266f9a1d61531e4796a7a69de0aeea3771452fd6a42e43724cdb915da5f7a8ba57c31d5e8f3c5fbcb626752838df188b123c58fdb95c5327061e91a27d20f188956798046b49370d4d65e0d38e78ee84ed440673433bc10fe7cbf904a2741fb6888ffc1b978a0ac9b026031682c6b19f652245f422bd5c1d65f0873eee39a1a881e5abcc0ddcfd319899939b120c01ade311310f4c7e9b21060807607dab7d17cf05b16538426e994aa53b5aca0441b80853d4a076a18c804433b90a0a1e91064ffecaad56ab21f0c477dc69de3303a27c7c063f3a7420c65cb45d5f97d48b766ac61ac293d7905325c30d390d3ee256aded226dab3eb4fea462c2feb0de5a972578377b5d0291e054f9297f2596de63b35b6e6be335f1cee6c44ced94bbd4d9b9ba3f3a69748a621584eb25dd8ba64dd3dc1253f469f25fed6954a52b29024a43b8ed8894dc4cc761b329bd08ad8604130f80373234d6a1e7d4666e77c3101bd0b84ca0a140f0017db8ff2a0eaae32d5638fb329f774f57b34926a441742c8cadb08985e24e36d14bf6434a239d4c23633cb375deb0c0cb6e088c946dc395addbd8245a3c5a90513954a1c5a6ffc9ea60fc016cd199230af5e0b2d3ccdc2a5ab024578b1cb9751b8073c62605f821671eee78e7edcc5160635055ced262b4a40eef50389aca97809e59c057cdb0c0ebaaac9d0e02206c765c5dc949aa8548bc5239a2904ffb6b40cefdbf61612a3e7dbef5905e7a72f87cb68fefae08e4173a2e54feb46c0956e9a61320095446973b1c62fa9e621df21e1f421294800743e20e7311baa00f2f31808700fd4b269b1298c03d8ef15d7ec7091b4e8027ab128b4f469316deb673fd04d547b4b0db3057b4fe9c75184e6316ed7c8693285320b7a0e66d55c28d2f333938def4659a425b5557fe82572cc0876780221126fa41bf6715d168139b95e7dae3a8e6e95439307e94922b9e04447af101c77a21206be35aaaa84fff9b4ca4d8dc8566f0e7b299cbc4895d32ab523171ff28e8dc634af2d90408f7a6baa8dec22b7234aadd385d299f1fc94e40eb315015b88d53ef9ecd7474e1a67799c299f0e638f1f973a917426fefebc660097ce41ec7cc078c1cbb5241f69ebd0a42e995e972b22061e2ef4124075d41309f0d060e8e37b672fc5e5c92748daffb190047c053c0735bcac47f8c1845743228c76d76936d465432d8e75087e8884e6d809aedb5c9ad513373b927a5732938ee999a5d1bc00f1dd3bf8810d05965a5d903f247adbff4febcc5fd7ad7253a576d677c63e82505846fc65dac64441c682163be27b16a134f56b2bc3dc88dc8b4aaa8bfdd1696f7b7c74f193efbeaff87d3be0d7d75a73029833920a9983109b5f7c87faf42e11fce543fceaa5cc3adfbd9b4d6a5dc8ddb258de5406f3d7c3e9ac100f804c5cb44147b15b1789285b897a2fae251a04ed58c7571647f00ecbb508402a0bee3ad4c9d38db050a7f8d78a881b5252af79ed98c35dd05eb9f28391e80fb42f4894d05cf6e37e2e1be42251f55e90bbc974c0841a4a105e503ed30542bc39a4c37056206eef83098f99c3b1ba204866e7ec1d1bab071b7e2d658a418fd87e5b978a5dbe5ddcb5eb572d36ae5547269233d17d2f60288067a7cbd362fad733914105e9676f7038bc4ea63d2c97cf432a618e8f6618c75424974fd6fb7aaaae325391637e96f4d92b7df38de0e4fe90e084e40df0bf477a4209e44618294057a9eb822e9e84e42b0efbcdcb793edf9917e2ce1b26e65ee250829844c1ccfa49047d5ec927d7b5d74d6a21395b8e61fc9fb0aa6e85f0fd23dc39ef4f7c3391658c059e96e2393b2800459d5651b624343c7832d647e55c1d346074abacf64b627324d589bd2c2867bb8dc1b3432c6c9589bd4967a81ab3097eb897b04b8ae4dcf4170d38153cdcccff7eceac3f6b308810fd4cf1180beb03fbc4bc5305b9c34c162d21b049a20337b38f28f21792de3d7f33521d813cfd1e043856c1730c07fe5e67ae6de86b865337451681f533fb77e6126fddb7afd0f6ccdf606a1891cb7fdc0cb0f81009d8d4eb3dfdf0459a298ce420902dd224ad6b612e29de6e384b403ef276d11275b415dea1992f6747d69615e77ca6425710dc74068315a1e62ff6816f6bf7a20bb05d341e198c3adfc0992f2f3a4bd4640370b9c8ac8ae468d4d3efbc68f9335d667296148e3b2d33f5b8ee426ff6a11585be1d17a7256422f94059a732157de625bd80d1e048bfba22389061b72d8efb29288ae08c23f19fda928f8f427d27139dd2f9b5829a68c4fd2d240a3f67a29c2875ba543fa7d9036053264d1f315f39bee85595b3d2e061ecf2189c240ca7019f260f6499f854e225c72e607734db27ec4ca681e018fd5d2d1112105b9639bba4b8b016aeee350ff44f053cf41f29d7f1aa5011104920e727f41262eac7e5c60adcb5033e4fb92ecaf0f3683d831e42adb76515bced9e833e452fee11e5f15f7ec42afe6cba03fea16be8d881a84adb14418f7208b575a17f758956ac4046481107a0644c7281e3524d93df82a2f3865333af5283c108db0d38a4ba25b9b3725db007ec2d90b5327f2c217de360a1d1c3b891b3d5fc8d6b6e26a0ffc2b9d3c6d281c6e6d1ab99caceb67098aa170bdc9e8b75008d657626442511fad5b2caed7ec13789a72b4833f5ce2c6a099ef6b16662b694cb0b0b6fde896d6a96e1c937f87bde9971dbc40c75f5f7a1e13d4166db55a7c151d150a1f0ef725301e360169504ff6d4261a939410fa84819e9be8a6822d68fa04c39283a385f36eee4a8ea5f1655194890253bfa137366ca278d2d281da9620b0635bd06a39edaadd5fce4af3690137f</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码才能查看文章</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>test1</title>
       <link href="/2023/12/26/test1/"/>
       <url>/2023/12/26/test1/</url>
@@ -59,20 +72,7 @@
       <link href="/2023/12/20/My-New-post/"/>
       <url>/2023/12/20/My-New-post/</url>
       
-        <content type="html"><![CDATA[<p>Today is a good day!</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2023/12/19/hello-world/"/>
-      <url>/2023/12/19/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><p>1.Demo 1 - 预设选择第一个【默认】<br><div class="tabs" id="test1"><ul class="nav-tabs no-default"></ul><div class="tab-contents"></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></p><p>好好学习</p><div class="tabs" id="unique-name"><ul class="nav-tabs no-default"></ul><div class="tab-contents"></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div><details class="folding-tag" ><summary> 查看图片测试 </summary>              <div class='content'>              <p><img src="https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper/abstract/41F215B9-261F-48B4-80B5-4E86E165259E.jpeg" alt="">  </p>              </div>            </details>  <details class="folding-tag" cyan open><summary> 查看默认打开的折叠框 </summary>              <div class='content'>              <p>这是一个默认打开的折叠框。  </p>              </div>            </details>  <details class="folding-tag" green><summary> 查看代码测试 </summary>              <div class='content'>              <p>假装这里有代码块（代码块没法嵌套代码块）  </p>              </div>            </details>  <details class="folding-tag" yellow><summary> 查看列表测试 </summary>              <div class='content'>              <ul><li>haha  </li><li>hehe  </li></ul>              </div>            </details>  <details class="folding-tag" red><summary> 查看嵌套测试 </summary>              <div class='content'>              <details class="folding-tag" blue><summary> 查看嵌套测试2 </summary>              <div class='content'>              <details class="folding-tag" ><summary> 查看嵌套测试3 </summary>              <div class='content'>              <p>hahaha <span><img src='https://cdn.jsdelivr.net/gh/volantis-x/cdn-emoji/tieba/%E6%BB%91%E7%A8%BD.png' style='height:24px'></span>  </p>              </div>            </details>                </div>            </details>                </div>            </details><div class="tabs" id="test2"><ul class="nav-tabs no-default"></ul><div class="tab-contents"></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="550781f9179ea870ee5d08c744945ab15b3a43c309f0af965821bbb281480bf3">73d38b3f522cc90d5ddd451cc52bad516b1cb06857447f223cad3b44c74ec8ea1378cbd8ea570c4bd50f7a5b3c134dfbeb986a2d9b2c52782805f71c9dc0dd33</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Welcome to my blog. enter password to read.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       
       
       
@@ -81,28 +81,6 @@
     
   
   
-    
-    
-    <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
     
     
     <entry>
@@ -117,11 +95,11 @@
     
     
     <entry>
-      <title>music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[<p>have a nice day!</p>    <div id="aplayer-uFdNwzqr" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="2959379263" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>    <div id="aplayer-LNdatVdG" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8492133976" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>    <div id="aplayer-boRLvdOk" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="gcid_3znqw77uz2z08e" data-server="kugou" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>    <div id="aplayer-AUuRBOBD" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="gcid_3znqw77uz2z08e#46fj1j44" data-server="kugou" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>    <div id="aplayer-vFjVteoO" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="3znqw77uz2z08e" data-server="kugou" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>    <div id="aplayer-QmCaQFCL" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="837452458" data-server="kugou" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -139,9 +117,20 @@
     
     
     <entry>
-      <title></title>
-      <link href="/daily/2023/2023-12-30-%E6%98%9F%E6%9C%9F%E5%85%AD.html"/>
-      <url>/daily/2023/2023-12-30-%E6%98%9F%E6%9C%9F%E5%85%AD.html</url>
+      <title>music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<p>have a nice day!</p>    <div id="aplayer-kEuaSlcZ" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="2959379263" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>    <div id="aplayer-mFAaOkec" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8492133976" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -153,6 +142,17 @@
       <title></title>
       <link href="/daily/2023/2023-12-26-%E6%98%9F%E6%9C%9F%E4%BA%8C.html"/>
       <url>/daily/2023/2023-12-26-%E6%98%9F%E6%9C%9F%E4%BA%8C.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/daily/2023/2023-12-30-%E6%98%9F%E6%9C%9F%E5%85%AD.html"/>
+      <url>/daily/2023/2023-12-30-%E6%98%9F%E6%9C%9F%E5%85%AD.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
