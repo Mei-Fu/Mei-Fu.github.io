@@ -4,6 +4,96 @@
   
     
     <entry>
+      <title></title>
+      <link href="/2024/01/07/k8s2/"/>
+      <url>/2024/01/07/k8s2/</url>
+      
+        <content type="html"><![CDATA[<div class="tabs" id="test1"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="test1-1">代码</button><button type="button" class="tab " data-href="test1-2">解读</button></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"></div><div class="tab-item-content" id="test1-2"></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div><div class="note simple"></div><div class="tabs" id="test1"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="test1-1">代码</button><button type="button" class="tab " data-href="test1-2">解读</button></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"></div><div class="tab-item-content" id="test1-2"></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div><div class="note simple"></div><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>时间轴</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2024-01-07</p></div></div><div class='timeline-item-content'></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2024-01-07</p></div></div><div class='timeline-item-content'></div></div></div><div class="tabs" id="test1"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="test1-1">代码</button><button type="button" class="tab " data-href="test1-2">解读</button></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"></div><div class="tab-item-content" id="test1-2"><p>Today is a good day! I met a beautiful girl!</p></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div><div class="note simple"><p>Today is a good day! I met a beautiful girl!</p></div><details class="folding-tag" green><summary> 标题 </summary>              <div class='content'>              <p>hello world!</p>              </div>            </details>]]></content>
+      
+      
+      <categories>
+          
+          <category> Linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> k8s </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Obsidian插件的使用</title>
+      <link href="/2024/01/07/obsidian%E6%8F%92%E4%BB%B6%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+      <url>/2024/01/07/obsidian%E6%8F%92%E4%BB%B6%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
+      
+        <content type="html"><![CDATA[<h4 id="quickadd的使用"><a href="#quickadd的使用" class="headerlink" title="quickadd的使用"></a>quickadd的使用</h4><p><a href="https://www.bilibili.com/video/BV1fw411f7xy/?spm_id_from=333.337.search-card.all.click&amp;vd_source=764030908519be15b41a206ff5023320">https://www.bilibili.com/video/BV1fw411f7xy/?spm_id_from=333.337.search-card.all.click&amp;vd_source=764030908519be15b41a206ff5023320</a></p><hr><h4 id="calendar的使用"><a href="#calendar的使用" class="headerlink" title="calendar的使用"></a>calendar的使用</h4><p><a href="https://www.bilibili.com/video/BV12h411D7nr/?spm_id_from=333.788.recommend_more_video.10&amp;vd_source=764030908519be15b41a206ff5023320">https://www.bilibili.com/video/BV12h411D7nr/?spm_id_from=333.788.recommend_more_video.10&amp;vd_source=764030908519be15b41a206ff5023320</a></p><h3 id="obsidian双栏模式"><a href="#obsidian双栏模式" class="headerlink" title="obsidian双栏模式"></a>obsidian双栏模式</h3><blockquote><p>苹果电脑按cmd，并同时点击右上角的图标即可。<br>Windows电脑按ctrl，并同时点击右上角的图标即可。</p></blockquote><h3 id="语般的工具栏"><a href="#语般的工具栏" class="headerlink" title="语般的工具栏"></a>语般的工具栏</h3><blockquote><p>editing tool</p></blockquote><p><img src="https://cdn.jsdelivr.net/gh/Mei-Fu/pic_bed@main/img/202401071840977.png" alt="image.png"></p><h3 id="obsidian图库"><a href="#obsidian图库" class="headerlink" title="obsidian图库"></a>obsidian图库</h3><blockquote><p>picgo</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 写作 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> obsidian </tag>
+            
+            <tag> 插件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>service的创建与管理</title>
+      <link href="/2024/01/06/service%E7%9A%84%E5%88%9B%E5%BB%BA%E4%B8%8E%E7%AE%A1%E7%90%86/"/>
+      <url>/2024/01/06/service%E7%9A%84%E5%88%9B%E5%BB%BA%E4%B8%8E%E7%AE%A1%E7%90%86/</url>
+      
+        <content type="html"><![CDATA[<h3 id="创建pod"><a href="#创建pod" class="headerlink" title="创建pod"></a>创建pod</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure><h3 id="创建deployment"><a href="#创建deployment" class="headerlink" title="创建deployment"></a>创建deployment</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubectl create deployment nginx --image=nginx</span><br></pre></td></tr></table></figure><h3 id="创建service"><a href="#创建service" class="headerlink" title="创建service"></a>创建service</h3><p>一、通过kubectl expose命令创建<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubectl expose deploy nginx-test1 --port=8000 --target-port=80</span><br></pre></td></tr></table></figure><br>二、通过YAML创建</p><p>此时查看service可以看到service已创建，便可以通过service的地址访问nginx服务。通过curl命令进行验证。<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">curl</span><br></pre></td></tr></table></figure></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>pod的创建与管理</title>
+      <link href="/2024/01/06/pod%E7%9A%84%E5%88%9B%E5%BB%BA%E4%B8%8E%E7%AE%A1%E7%90%86/"/>
+      <url>/2024/01/06/pod%E7%9A%84%E5%88%9B%E5%BB%BA%E4%B8%8E%E7%AE%A1%E7%90%86/</url>
+      
+        <content type="html"><![CDATA[<h3 id="Pod的创建"><a href="#Pod的创建" class="headerlink" title="Pod的创建"></a>Pod的创建</h3><p>一、命令行创建</p><p>二、使用YAML创建<br><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">apiVersion:</span> <span class="string">v1</span></span><br><span class="line"><span class="attr">kind:</span> <span class="string">Pod</span></span><br><span class="line"><span class="attr">metadata:</span></span><br><span class="line">  <span class="attr">name:</span> <span class="string">pod-demo</span></span><br><span class="line">  <span class="attr">namespace:</span> <span class="string">default</span></span><br><span class="line">  <span class="attr">labels:</span></span><br><span class="line">    <span class="attr">app:</span> <span class="string">nginx</span></span><br><span class="line">  <span class="attr">spec:</span></span><br><span class="line">    <span class="attr">containers:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">nginx</span></span><br><span class="line">      <span class="attr">image:</span> <span class="string">nginx:latest</span></span><br><span class="line">      <span class="attr">ports:</span></span><br><span class="line">      <span class="bullet">-</span> <span class="attr">containerPort:</span> <span class="number">80</span></span><br></pre></td></tr></table></figure></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubectl create -f pod.yaml</span><br></pre></td></tr></table></figure><h3 id="pod的管理"><a href="#pod的管理" class="headerlink" title="pod的管理"></a>pod的管理</h3><p>查看pod的状态以及生命周期<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubectl describe po pod-demo</span><br></pre></td></tr></table></figure></p><p>查看pod所有运行节点以及IP<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubectl get po pod-demo -o wide</span><br></pre></td></tr></table></figure></p><p>查看pod以及pod中容器的详细信息<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubectl get po pod-demo -o yaml</span><br></pre></td></tr></table></figure></p><p>查看pod中容器的日志<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubectl logs pod-demo</span><br></pre></td></tr></table></figure></p><p>进入Pod对应的容器内部并使用/bin/bash交互<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubectl <span class="built_in">exec</span> -it pod-demo /bin/bash</span><br></pre></td></tr></table></figure></p><p>修改yaml后可重启Pod更新应用<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubectl replace -f pod.yaml --force</span><br></pre></td></tr></table></figure></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> k8s </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>环境检查</title>
       <link href="/2024/01/06/%E7%8E%AF%E5%A2%83%E6%A3%80%E6%9F%A5/"/>
       <url>/2024/01/06/%E7%8E%AF%E5%A2%83%E6%A3%80%E6%9F%A5/</url>
@@ -27,7 +117,7 @@
       <link href="/2024/01/06/k8s/"/>
       <url>/2024/01/06/k8s/</url>
       
-        <content type="html"><![CDATA[<h3 id="前置环境"><a href="#前置环境" class="headerlink" title="前置环境"></a>前置环境</h3><h4 id="时间同步"><a href="#时间同步" class="headerlink" title="时间同步"></a>时间同步</h4><div class="tabs" id="test1"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="test1-1">代码</button><button type="button" class="tab " data-href="test1-2">解读</button></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"></div><div class="tab-item-content" id="test1-2"><div class="note simple"><p>默认解读</p></div></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div><h4 id="修改内核参数"><a href="#修改内核参数" class="headerlink" title="修改内核参数"></a>修改内核参数</h4><div class="tabs" id="test1"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="test1-1">代码</button><button type="button" class="tab " data-href="test1-2">解读</button></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">cat &lt;&lt;EOF | sudo tee /etc/sysctl.d/k8s.conf</span><br><span class="line">net.bridge.bridge-nf-call-ip6tables = 1</span><br><span class="line">net.bridge.bridge-nf-call-iptables = 1</span><br><span class="line">EOF</span><br></pre></td></tr></table></figure></div><div class="tab-item-content" id="test1-2"><div class="note simple"><p>默认解读</p></div></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div><h3 id="安装基础组件"><a href="#安装基础组件" class="headerlink" title="安装基础组件"></a>安装基础组件</h3><p><a href="https://github.com/containerd/containerd/releases/download/v1.6.6/containerd-1.6.6-linux-arm64.tar.gz">https://github.com/containerd/containerd/releases/download/v1.6.6/containerd-1.6.6-linux-arm64.tar.gz</a><br><a href="https://github.com/opencontainers/runc/releases/download/v1.1.1/runc.arm64/">https://github.com/opencontainers/runc/releases/download/v1.1.1/runc.arm64/</a><br><a href="https://github.com/containernetworking/plugins/releases/download/v1.1.1/cni-plugins-linux-arm64-v1.1.1.tgz">https://github.com/containernetworking/plugins/releases/download/v1.1.1/cni-plugins-linux-arm64-v1.1.1.tgz</a><br><a href="https://github.com/containerd/nerdctl/releases/download/v0.22.2/nerdctl-0.22.2-linux-arm64.tar.gz">https://github.com/containerd/nerdctl/releases/download/v0.22.2/nerdctl-0.22.2-linux-arm64.tar.gz</a></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">tar xvf nerdctl-0.22.2-linux-arm64.tar</span><br><span class="line"><span class="built_in">cp</span> nerdctl /usr/local/bin/</span><br><span class="line"><span class="built_in">rm</span> -rf containerd-rootless* nerdctl</span><br><span class="line"></span><br><span class="line"><span class="built_in">cat</span> &gt; /etc/yum.repos.d/kubernetes.repo &lt;&lt;<span class="string">EOF</span></span><br><span class="line"><span class="string">[kubernetes]name=Kubernetesbase</span></span><br><span class="line"><span class="string">url=https://mirrors.aliyun.com/kubernetes/yum/repos/kubernetes-el7-aarch64</span></span><br><span class="line"><span class="string">enabled=1</span></span><br><span class="line"><span class="string">gpgcheck=1</span></span><br><span class="line"><span class="string">repo_gpgcheck=1</span></span><br><span class="line"><span class="string">gpgkey=http://mirrors.aliyun.com/kubernetes/yum/doc/yum-key.gpg http://mirrors.aliyun.com/kubernetes/yum/doc/rpm-package-key.gpgexclude=kube*</span></span><br><span class="line"><span class="string">EOF</span></span><br><span class="line"></span><br><span class="line">yum -y install kubelet-1.24.3 kubeadm-1.24.3 kubectl-1.24.3 --disableexcludes=kubernetes  </span><br><span class="line">systemctl <span class="built_in">enable</span> kubelet.service</span><br></pre></td></tr></table></figure><h3 id="k8s集群初始化"><a href="#k8s集群初始化" class="headerlink" title="k8s集群初始化"></a>k8s集群初始化</h3><p>kubeadm init —apiserver-advertise-address=192.168.254.129 —image-repository registry.aliyuncs.com/google_containers —kubernetes-version v1.24.3 —service-cidr=10.96.0.0/12 —pod-network-cidr=10.244.0.0/16</p>]]></content>
+        <content type="html"><![CDATA[<h3 id="前置环境"><a href="#前置环境" class="headerlink" title="前置环境"></a>前置环境</h3><h4 id="时间同步"><a href="#时间同步" class="headerlink" title="时间同步"></a>时间同步</h4><div class="tabs" id="test1"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="test1-1">代码</button><button type="button" class="tab " data-href="test1-2">解读</button></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"></div><div class="tab-item-content" id="test1-2"><div class="note simple"><p>默认解读</p></div></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div><h4 id="修改内核参数"><a href="#修改内核参数" class="headerlink" title="修改内核参数"></a>修改内核参数</h4><div class="tabs" id="test1"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="test1-1">代码</button><button type="button" class="tab " data-href="test1-2">解读</button></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cat</span> &lt;&lt;<span class="string">EOF | sudo tee /etc/sysctl.d/k8s.conf</span></span><br><span class="line"><span class="string">net.bridge.bridge-nf-call-ip6tables = 1</span></span><br><span class="line"><span class="string">net.bridge.bridge-nf-call-iptables = 1</span></span><br><span class="line"><span class="string">EOF</span></span><br></pre></td></tr></table></figure></div><div class="tab-item-content" id="test1-2"><div class="note simple"><p>默认解读</p></div></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div><h3 id="安装基础组件"><a href="#安装基础组件" class="headerlink" title="安装基础组件"></a>安装基础组件</h3><p><a href="https://github.com/containerd/containerd/releases/download/v1.6.6/containerd-1.6.6-linux-arm64.tar.gz">https://github.com/containerd/containerd/releases/download/v1.6.6/containerd-1.6.6-linux-arm64.tar.gz</a><br><a href="https://github.com/opencontainers/runc/releases/download/v1.1.1/runc.arm64/">https://github.com/opencontainers/runc/releases/download/v1.1.1/runc.arm64/</a><br><a href="https://github.com/containernetworking/plugins/releases/download/v1.1.1/cni-plugins-linux-arm64-v1.1.1.tgz">https://github.com/containernetworking/plugins/releases/download/v1.1.1/cni-plugins-linux-arm64-v1.1.1.tgz</a><br><a href="https://github.com/containerd/nerdctl/releases/download/v0.22.2/nerdctl-0.22.2-linux-arm64.tar.gz">https://github.com/containerd/nerdctl/releases/download/v0.22.2/nerdctl-0.22.2-linux-arm64.tar.gz</a></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">tar xvf nerdctl-0.22.2-linux-arm64.tar</span><br><span class="line"><span class="built_in">cp</span> nerdctl /usr/local/bin/</span><br><span class="line"><span class="built_in">rm</span> -rf containerd-rootless* nerdctl</span><br><span class="line"></span><br><span class="line"><span class="built_in">cat</span> &gt; /etc/yum.repos.d/kubernetes.repo &lt;&lt;<span class="string">EOF</span></span><br><span class="line"><span class="string">[kubernetes]name=Kubernetesbase</span></span><br><span class="line"><span class="string">url=https://mirrors.aliyun.com/kubernetes/yum/repos/kubernetes-el7-aarch64</span></span><br><span class="line"><span class="string">enabled=1</span></span><br><span class="line"><span class="string">gpgcheck=1</span></span><br><span class="line"><span class="string">repo_gpgcheck=1</span></span><br><span class="line"><span class="string">gpgkey=http://mirrors.aliyun.com/kubernetes/yum/doc/yum-key.gpg http://mirrors.aliyun.com/kubernetes/yum/doc/rpm-package-key.gpgexclude=kube*</span></span><br><span class="line"><span class="string">EOF</span></span><br><span class="line"></span><br><span class="line">yum -y install kubelet-1.24.3 kubeadm-1.24.3 kubectl-1.24.3 --disableexcludes=kubernetes  </span><br><span class="line">systemctl <span class="built_in">enable</span> kubelet.service</span><br></pre></td></tr></table></figure><h3 id="k8s集群初始化"><a href="#k8s集群初始化" class="headerlink" title="k8s集群初始化"></a>k8s集群初始化</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubeadm init --apiserver-advertise-address=192.168.254.129 --image-repository registry.aliyuncs.com/google_containers --kubernetes-version v1.24.3 --service-cidr=10.96.0.0/12 --pod-network-cidr=10.244.0.0/16</span><br></pre></td></tr></table></figure><h3 id="集群状态检测"><a href="#集群状态检测" class="headerlink" title="集群状态检测"></a>集群状态检测</h3><h4 id="查看所有nod节点"><a href="#查看所有nod节点" class="headerlink" title="查看所有nod节点"></a>查看所有nod节点</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubectl get no</span><br></pre></td></tr></table></figure><p><img src="https://cdn.jsdelivr.net/gh/Mei-Fu/pic_bed@main/img/202401071842316.png" alt="image.png"></p><h4 id="查看node的信息"><a href="#查看node的信息" class="headerlink" title="查看node的信息"></a>查看node的信息</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubectl describe nodes node1</span><br></pre></td></tr></table></figure><p><img src="https://cdn.jsdelivr.net/gh/Mei-Fu/pic_bed@main/img/202401071843320.png" alt="image.png"><br><img src="https://cdn.jsdelivr.net/gh/Mei-Fu/pic_bed@main/img/202401071843622.png" alt="image.png"></p><h4 id="查看指定空间内所有Pod"><a href="#查看指定空间内所有Pod" class="headerlink" title="查看指定空间内所有Pod"></a>查看指定空间内所有Pod</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubectl get po -n kube-system</span><br></pre></td></tr></table></figure><p><img src="https://cdn.jsdelivr.net/gh/Mei-Fu/pic_bed@main/img/202401071845933.png" alt="image.png"></p><h4 id="查看Pod的信息"><a href="#查看Pod的信息" class="headerlink" title="查看Pod的信息"></a>查看Pod的信息</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubectl describe po kube-proxy-np9bz -n kube-system</span><br></pre></td></tr></table></figure><p><img src="https://cdn.jsdelivr.net/gh/Mei-Fu/pic_bed@main/img/202401071902235.png" alt="image.png"><br><img src="https://cdn.jsdelivr.net/gh/Mei-Fu/pic_bed@main/img/202401071903147.png" alt="image.png"><br><img src="https://cdn.jsdelivr.net/gh/Mei-Fu/pic_bed@main/img/202401071904104.png" alt="image.png"></p><h4 id="删除Pod"><a href="#删除Pod" class="headerlink" title="删除Pod"></a>删除Pod</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubectl delete po kube-proxy-dmbqw -n kube-system</span><br></pre></td></tr></table></figure><h4 id="查看容器的日志"><a href="#查看容器的日志" class="headerlink" title="查看容器的日志"></a>查看容器的日志</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubectl logs kube-proxy-dmbqw -n kube-system</span><br></pre></td></tr></table></figure><p><img src="https://cdn.jsdelivr.net/gh/Mei-Fu/pic_bed@main/img/202401071844298.png" alt="image.png"></p><h4 id="查看命令空间"><a href="#查看命令空间" class="headerlink" title="查看命令空间"></a>查看命令空间</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubectl get ns</span><br></pre></td></tr></table></figure><p><img src="https://cdn.jsdelivr.net/gh/Mei-Fu/pic_bed@main/img/202401071851608.png" alt="image.png"></p><h4 id="查看service的信息"><a href="#查看service的信息" class="headerlink" title="查看service的信息"></a>查看service的信息</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kubectl get service</span><br></pre></td></tr></table></figure><p><img src="https://cdn.jsdelivr.net/gh/Mei-Fu/pic_bed@main/img/202401071844878.png" alt="image.png"></p>]]></content>
       
       
       <categories>
@@ -191,9 +281,9 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -202,20 +292,9 @@
     
     
     <entry>
-      <title>music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[<p>have a nice day!</p>    <div id="aplayer-YzWhmTzV" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="2959379263" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>    <div id="aplayer-PrWeYGNA" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8492133976" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -235,20 +314,9 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
-      <link href="/daily/2023/2023-12-30-%E6%98%9F%E6%9C%9F%E5%85%AD.html"/>
-      <url>/daily/2023/2023-12-30-%E6%98%9F%E6%9C%9F%E5%85%AD.html</url>
+      <link href="/daily/2023/2023-12-26-%E6%98%9F%E6%9C%9F%E4%BA%8C.html"/>
+      <url>/daily/2023/2023-12-26-%E6%98%9F%E6%9C%9F%E4%BA%8C.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -269,8 +337,8 @@
     
     <entry>
       <title></title>
-      <link href="/daily/2023/2023-12-26-%E6%98%9F%E6%9C%9F%E4%BA%8C.html"/>
-      <url>/daily/2023/2023-12-26-%E6%98%9F%E6%9C%9F%E4%BA%8C.html</url>
+      <link href="/daily/2023/2023-12-30-%E6%98%9F%E6%9C%9F%E5%85%AD.html"/>
+      <url>/daily/2023/2023-12-30-%E6%98%9F%E6%9C%9F%E5%85%AD.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -279,9 +347,20 @@
     
     
     <entry>
+      <title>music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<p>have a nice day!</p>    <div id="aplayer-TRLxOvZs" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="2959379263" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>    <div id="aplayer-SyjkONCt" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8492133976" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
-      <link href="/daily/2023/2024-01-06-%E6%98%9F%E6%9C%9F%E5%85%AD.html"/>
-      <url>/daily/2023/2024-01-06-%E6%98%9F%E6%9C%9F%E5%85%AD.html</url>
+      <link href="/daily/2024/2024-01-07-%E6%98%9F%E6%9C%9F%E6%97%A5.html"/>
+      <url>/daily/2024/2024-01-07-%E6%98%9F%E6%9C%9F%E6%97%A5.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -290,9 +369,9 @@
     
     
     <entry>
-      <title></title>
-      <link href="/daily/2023/2024-01-01-%E6%98%9F%E6%9C%9F%E4%B8%80.html"/>
-      <url>/daily/2023/2024-01-01-%E6%98%9F%E6%9C%9F%E4%B8%80.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
