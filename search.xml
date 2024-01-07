@@ -4,31 +4,6 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2024/01/07/k8s2/"/>
-      <url>/2024/01/07/k8s2/</url>
-      
-        <content type="html"><![CDATA[<div class="tabs" id="test1"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="test1-1">代码</button><button type="button" class="tab " data-href="test1-2">解读</button></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"></div><div class="tab-item-content" id="test1-2"></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div><div class="note simple"></div><div class="tabs" id="test1"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="test1-1">代码</button><button type="button" class="tab " data-href="test1-2">解读</button></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"></div><div class="tab-item-content" id="test1-2"></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div><div class="note simple"></div><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>时间轴</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2024-01-07</p></div></div><div class='timeline-item-content'></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2024-01-07</p></div></div><div class='timeline-item-content'></div></div></div><div class="tabs" id="test1"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="test1-1">代码</button><button type="button" class="tab " data-href="test1-2">解读</button></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"></div><div class="tab-item-content" id="test1-2"><p>Today is a good day! I met a beautiful girl!</p></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div><div class="note simple"><p>Today is a good day! I met a beautiful girl!</p></div><details class="folding-tag" green><summary> 标题 </summary>              <div class='content'>              <p>hello world!</p>              </div>            </details>]]></content>
-      
-      
-      <categories>
-          
-          <category> Linux </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> k8s </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Obsidian插件的使用</title>
       <link href="/2024/01/07/obsidian%E6%8F%92%E4%BB%B6%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
       <url>/2024/01/07/obsidian%E6%8F%92%E4%BB%B6%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
@@ -48,6 +23,31 @@
             <tag> obsidian </tag>
             
             <tag> 插件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2024/01/07/k8s2/"/>
+      <url>/2024/01/07/k8s2/</url>
+      
+        <content type="html"><![CDATA[<div class="tabs" id="test1"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="test1-1">代码</button><button type="button" class="tab " data-href="test1-2">解读</button></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"></div><div class="tab-item-content" id="test1-2"></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div><div class="note simple"></div><div class="tabs" id="test1"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="test1-1">代码</button><button type="button" class="tab " data-href="test1-2">解读</button></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"></div><div class="tab-item-content" id="test1-2"></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div><div class="note simple"></div><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>时间轴</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2024-01-07</p></div></div><div class='timeline-item-content'></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2024-01-07</p></div></div><div class='timeline-item-content'></div></div></div><div class="tabs" id="test1"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="test1-1">代码</button><button type="button" class="tab " data-href="test1-2">解读</button></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"></div><div class="tab-item-content" id="test1-2"><p>Today is a good day! I met a beautiful girl!</p></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div><div class="note simple"><p>Today is a good day! I met a beautiful girl!</p></div><details class="folding-tag" green><summary> 标题 </summary>              <div class='content'>              <p>hello world!</p>              </div>            </details>]]></content>
+      
+      
+      <categories>
+          
+          <category> Linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> k8s </tag>
             
         </tags>
       
@@ -281,9 +281,9 @@
     
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -303,9 +303,9 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -315,8 +315,8 @@
     
     <entry>
       <title></title>
-      <link href="/daily/2023/2023-12-26-%E6%98%9F%E6%9C%9F%E4%BA%8C.html"/>
-      <url>/daily/2023/2023-12-26-%E6%98%9F%E6%9C%9F%E4%BA%8C.html</url>
+      <link href="/daily/2023/2023-12-30-%E6%98%9F%E6%9C%9F%E5%85%AD.html"/>
+      <url>/daily/2023/2023-12-30-%E6%98%9F%E6%9C%9F%E5%85%AD.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -337,21 +337,10 @@
     
     <entry>
       <title></title>
-      <link href="/daily/2023/2023-12-30-%E6%98%9F%E6%9C%9F%E5%85%AD.html"/>
-      <url>/daily/2023/2023-12-30-%E6%98%9F%E6%9C%9F%E5%85%AD.html</url>
+      <link href="/daily/2023/2023-12-26-%E6%98%9F%E6%9C%9F%E4%BA%8C.html"/>
+      <url>/daily/2023/2023-12-26-%E6%98%9F%E6%9C%9F%E4%BA%8C.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[<p>have a nice day!</p>    <div id="aplayer-TRLxOvZs" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="2959379263" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>    <div id="aplayer-SyjkONCt" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8492133976" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>]]></content>
       
     </entry>
     
@@ -374,6 +363,17 @@
       <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<p>have a nice day!</p>    <div id="aplayer-ofIvukQJ" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="2959379263" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>    <div id="aplayer-OZiUvrUF" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8492133976" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>]]></content>
       
     </entry>
     
