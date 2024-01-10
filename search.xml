@@ -4,27 +4,26 @@
   
     
     <entry>
-      <title>Obsidian插件的使用</title>
-      <link href="/2024/01/07/obsidian%E6%8F%92%E4%BB%B6%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
-      <url>/2024/01/07/obsidian%E6%8F%92%E4%BB%B6%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
+      <title>服务器相关知识</title>
+      <link href="/2024/01/10/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86/"/>
+      <url>/2024/01/10/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86/</url>
       
-        <content type="html"><![CDATA[<h4 id="quickadd的使用"><a href="#quickadd的使用" class="headerlink" title="quickadd的使用"></a>quickadd的使用</h4><p><a href="https://www.bilibili.com/video/BV1fw411f7xy/?spm_id_from=333.337.search-card.all.click&amp;vd_source=764030908519be15b41a206ff5023320">https://www.bilibili.com/video/BV1fw411f7xy/?spm_id_from=333.337.search-card.all.click&amp;vd_source=764030908519be15b41a206ff5023320</a></p><hr><h4 id="calendar的使用"><a href="#calendar的使用" class="headerlink" title="calendar的使用"></a>calendar的使用</h4><p><a href="https://www.bilibili.com/video/BV12h411D7nr/?spm_id_from=333.788.recommend_more_video.10&amp;vd_source=764030908519be15b41a206ff5023320">https://www.bilibili.com/video/BV12h411D7nr/?spm_id_from=333.788.recommend_more_video.10&amp;vd_source=764030908519be15b41a206ff5023320</a></p><h3 id="obsidian双栏模式"><a href="#obsidian双栏模式" class="headerlink" title="obsidian双栏模式"></a>obsidian双栏模式</h3><blockquote><p>苹果电脑按cmd，并同时点击右上角的图标即可。<br>Windows电脑按ctrl，并同时点击右上角的图标即可。</p></blockquote><h3 id="语般的工具栏"><a href="#语般的工具栏" class="headerlink" title="语般的工具栏"></a>语般的工具栏</h3><blockquote><p>editing tool</p></blockquote><p><img src="https://cdn.jsdelivr.net/gh/Mei-Fu/pic_bed@main/img/202401071840977.png" alt="image.png"></p><h3 id="obsidian图库"><a href="#obsidian图库" class="headerlink" title="obsidian图库"></a>obsidian图库</h3><blockquote><p>picgo</p></blockquote>]]></content>
-      
-      
-      <categories>
-          
-          <category> 写作 </category>
-          
-      </categories>
+        <content type="html"><![CDATA[<h3 id="服务器分类"><a href="#服务器分类" class="headerlink" title="服务器分类"></a>服务器分类</h3><p><img src="https://cdn.jsdelivr.net/gh/Mei-Fu/pic_bed@main/img/202401102306068.png" alt="iShot_2023-12-10_15.38.09.png"></p>]]></content>
       
       
-        <tags>
-            
-            <tag> obsidian </tag>
-            
-            <tag> 插件 </tag>
-            
-        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>mac快捷键使用</title>
+      <link href="/2024/01/10/mac%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%BD%BF%E7%94%A8/"/>
+      <url>/2024/01/10/mac%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%BD%BF%E7%94%A8/</url>
+      
+        <content type="html"><![CDATA[<h3 id="截屏快捷键"><a href="#截屏快捷键" class="headerlink" title="截屏快捷键"></a>截屏快捷键</h3><p>截取整个屏幕:Command+Shift+3<br>截取部分屏幕:Command+Shift+4<br>截取某个窗口:Command+shift+4+空格<br>调出图形界面:Command+shift+5<br>截取touchBar:Command+shift+6<br>截取整个屏幕到剪贴板:Ctrl+Command+Shift+3<br>截取部分屏幕到剪贴板:Ctrl+Command+Shift+4<br>截图去阴影:截图快捷键+Option<br>取消截图:EsC</p>]]></content>
+      
+      
       
     </entry>
     
@@ -48,6 +47,33 @@
         <tags>
             
             <tag> k8s </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Obsidian插件的使用</title>
+      <link href="/2024/01/07/obsidian%E6%8F%92%E4%BB%B6%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+      <url>/2024/01/07/obsidian%E6%8F%92%E4%BB%B6%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
+      
+        <content type="html"><![CDATA[<h4 id="quickadd的使用"><a href="#quickadd的使用" class="headerlink" title="quickadd的使用"></a>quickadd的使用</h4><p><a href="https://www.bilibili.com/video/BV1fw411f7xy/?spm_id_from=333.337.search-card.all.click&amp;vd_source=764030908519be15b41a206ff5023320">https://www.bilibili.com/video/BV1fw411f7xy/?spm_id_from=333.337.search-card.all.click&amp;vd_source=764030908519be15b41a206ff5023320</a></p><hr><h4 id="calendar的使用"><a href="#calendar的使用" class="headerlink" title="calendar的使用"></a>calendar的使用</h4><p><a href="https://www.bilibili.com/video/BV12h411D7nr/?spm_id_from=333.788.recommend_more_video.10&amp;vd_source=764030908519be15b41a206ff5023320">https://www.bilibili.com/video/BV12h411D7nr/?spm_id_from=333.788.recommend_more_video.10&amp;vd_source=764030908519be15b41a206ff5023320</a></p><h3 id="obsidian双栏模式"><a href="#obsidian双栏模式" class="headerlink" title="obsidian双栏模式"></a>obsidian双栏模式</h3><blockquote><p>苹果电脑按cmd，并同时点击右上角的图标即可。<br>Windows电脑按ctrl，并同时点击右上角的图标即可。</p></blockquote><h3 id="语般的工具栏"><a href="#语般的工具栏" class="headerlink" title="语般的工具栏"></a>语般的工具栏</h3><blockquote><p>editing tool</p></blockquote><p><img src="https://cdn.jsdelivr.net/gh/Mei-Fu/pic_bed@main/img/202401071840977.png" alt="image.png"></p><h3 id="obsidian图库"><a href="#obsidian图库" class="headerlink" title="obsidian图库"></a>obsidian图库</h3><blockquote><p>picgo</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 写作 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> obsidian </tag>
+            
+            <tag> 插件 </tag>
             
         </tags>
       
@@ -281,6 +307,28 @@
     
     
     <entry>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
@@ -292,11 +340,11 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>have a nice day!</p>    <div id="aplayer-SKGHiYyz" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="2959379263" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>    <div id="aplayer-RiaAscah" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8492133976" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>]]></content>
       
     </entry>
     
@@ -337,6 +385,28 @@
     
     <entry>
       <title></title>
+      <link href="/daily/2024/2024-01-07-%E6%98%9F%E6%9C%9F%E6%97%A5.html"/>
+      <url>/daily/2024/2024-01-07-%E6%98%9F%E6%9C%9F%E6%97%A5.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/daily/2024/2024-01-09-Tuesday.html"/>
+      <url>/daily/2024/2024-01-09-Tuesday.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/daily/2023/2023-12-26-%E6%98%9F%E6%9C%9F%E4%BA%8C.html"/>
       <url>/daily/2023/2023-12-26-%E6%98%9F%E6%9C%9F%E4%BA%8C.html</url>
       
@@ -348,32 +418,10 @@
     
     <entry>
       <title></title>
-      <link href="/daily/2024/2024-01-07-%E6%98%9F%E6%9C%9F%E6%97%A5.html"/>
-      <url>/daily/2024/2024-01-07-%E6%98%9F%E6%9C%9F%E6%97%A5.html</url>
+      <link href="/daily/2024/2024-01-13-%E6%98%9F%E6%9C%9F%E5%85%AD.html"/>
+      <url>/daily/2024/2024-01-13-%E6%98%9F%E6%9C%9F%E5%85%AD.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[<p>have a nice day!</p>    <div id="aplayer-ofIvukQJ" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="2959379263" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>    <div id="aplayer-OZiUvrUF" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8492133976" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>]]></content>
       
     </entry>
     
